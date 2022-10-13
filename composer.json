@@ -1,0 +1,19 @@
+{
+    "name": "nat/ex_personne_faker",
+    "description": "exemple de résolution de l'exercice",
+    "type": "project",
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "ISL\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "natacha braun",
+            "email": "braun.natacha@gmail.com"
+        }
+    ]
+}
